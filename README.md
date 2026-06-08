@@ -4,5 +4,6 @@ Created an interactive, browser-based Tic-Tac-Toe game using native JavaScript, 
 
 # 📸 Screenshots
 
-<i>Main game board with player moves<i> 
-<img src="Screenshot1.png" alt="App Screenshot" width="500" style="justify content: center">
+<i>Main game board with player moves<i>
+
+<img src="D:\vsCode\Git Images\Tic Tac Toe Screenshots\Screenshot1.png" alt="App Screenshot" width="500" style="justify content: center">
